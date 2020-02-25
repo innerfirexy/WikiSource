@@ -1,0 +1,7 @@
+/data
+*.txt
+*.csv
+*.json
+
+.mypy_cache/
+.vscode/
